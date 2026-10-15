@@ -1,1 +1,9 @@
-
+{
+  "apps": [
+    {
+      "app_id": "paint_craft",
+      "app_name": "Paint Craft",
+      "version": "1.0.0",
+      "executable": "PaintCraft.exe",
+      "download_url": "https://sh4d0w-tp.github.io/TRM_StudioLauncherBackend/releases/download/v1.0.0/paint_craft_v1.0.0.zip"
+    }
