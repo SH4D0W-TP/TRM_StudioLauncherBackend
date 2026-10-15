@@ -3,11 +3,11 @@
     {
       "app_id": "paint_craft",
       "app_name": "Paint Craft",
-      "download_url": "https://github.com/SH4D0W-TP/TRM_StudioLauncherBackend/releases/download/v1.0.6/paint_craft_v1.0.6.zip",
+      "download_url": "https://github.com/SH4D0W-TP/TRM_StudioLauncherBackend/releases/download/v1.0.7/paint_craft.exe",
       "executable": "paint_craft.exe",
       "id": "paint_craft",
       "name": "Paint Craft",
-      "version": "1.0.6"
+      "version": "1.0.7"
     }
   ]
 }
